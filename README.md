@@ -44,6 +44,7 @@
 - [ภาษาไทย (Thai)](https://github.com/ninearif/33-js-concepts) — Arif Waram
 - [Català (Catalan)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
 - [ខ្មែរ (Khmer)](https://github.com/Chhunneng/33-js-concepts) — Chrea Chanchhunneng
+- [Ethiopian (አማርኛ)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
 
 ---
 
